@@ -2,7 +2,7 @@
 - 👀 I’m interested in Developing Websites, Python Projects (tkinter, pygame) and much more.
 - 🌱 I’m currently learning HTML, CSS and Python
 - 💞️ I’m looking to collaborate on Python Projects
-- 📫 How to reach me: Email(tenthdoctor@linuxmail.org) or Discord ()
+- 📫 How to reach me: Email (tenthdoctor@linuxmail.org) or Discord ()
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
