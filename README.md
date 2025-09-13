@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mrojohns
+- 👋 Hi, I’m Oliver
 - 👀 I’m interested in Developing Websites, Python Projects (tkinter, pygame) and much more.
-- 🌱 I’m currently learning HTML, CSS and Python
+- 🌱 I’m currently learning Python, Java and C++
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me: Email (tenthdoctor@linuxmail.org) or Discord ()
 - 😄 Pronouns: he/him
