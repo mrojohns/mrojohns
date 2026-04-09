@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Oliver
 - 👀 I’m interested in Developing Websites, Python Projects (tkinter, pygame) and much more.
-- 🌱 I’m currently learning Python, Java and C++
-- 💞️ I’m looking to collaborate on Python Projects
+- 🌱 I’m currently learning Python, Java and C
+- 💞️ I’m looking to collaborate on Python Projects and C Applications
 - 📫 How to reach me: Email (tenthdoctor@linuxmail.org) or Discord ()
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
